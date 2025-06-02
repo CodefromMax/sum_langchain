@@ -1,0 +1,111 @@
+ID,Age,Heart_Disease_Type,Diagnoses_Note
+1,65,Coronary Artery Disease,Patient presents with stable angina. Regular chest pain during physical activity. ECG shows ST depression during stress test. Prescribed nitrates and beta blockers.
+2,72,Coronary Artery Disease,Chronic stable angina with occasional chest pain. Multiple blocked arteries shown in angiogram. Currently on statins and aspirin therapy.
+3,58,Atrial Fibrillation,Irregular heartbeat detected. Patient reports occasional palpitations and dizziness. ECG confirms atrial fibrillation. Started on anticoagulation therapy.
+4,45,Hypertensive Heart Disease,Persistent high blood pressure readings >140/90. Left ventricular hypertrophy noted on echocardiogram. Prescribed ACE inhibitors.
+5,68,Atrial Fibrillation,New onset atrial fibrillation with rapid ventricular response. Complains of fatigue and shortness of breath. Started on rate control medication.
+6,42,Cardiomyopathy,Mild cardiomegaly noted in chest X-ray.
+7,71,Cardiomyopathy,Experiencing syncope and palpitations frequently.
+8,48,Valvular Heart Disease,Chronic fatigue and fluid retention noted.
+9,60,Arrhythmia,Mild cardiomegaly noted in chest X-ray.
+10,62,Cardiomyopathy,Valve regurgitation identified during imaging.
+11,37,Arrhythmia,Mild cardiomegaly noted in chest X-ray.
+12,44,Valvular Heart Disease,Stress test indicates myocardial ischemia.
+13,83,Valvular Heart Disease,Mild cardiomegaly noted in chest X-ray.
+14,49,Cardiomyopathy,Patient reports chest pain and breathlessness.
+15,52,Valvular Heart Disease,Holter monitor detected abnormal rhythms.
+16,52,Arrhythmia,Patient experiences chest discomfort on exertion.
+17,53,Cardiomyopathy,Severe dyspnea with activity limitation.
+18,51,Heart Failure,Patient experiences chest discomfort on exertion.
+19,83,Heart Failure,MRI shows hypertrophic ventricular walls.
+20,80,Arrhythmia,Patient shows signs of ventricular dilation.
+21,59,Cardiomyopathy,Experiencing syncope and palpitations frequently.
+22,43,Coronary Artery Disease,Patient shows signs of ventricular dilation.
+23,79,Coronary Artery Disease,Patient experiences chest discomfort on exertion.
+24,75,Arrhythmia,Echocardiogram reveals reduced ejection fraction.
+25,56,Cardiomyopathy,Heart sounds abnormal with systolic murmur.
+26,56,Valvular Heart Disease,Mild cardiomegaly noted in chest X-ray.
+27,31,Coronary Artery Disease,BNP elevated; signs of heart failure.
+28,55,Valvular Heart Disease,Family history positive for heart disease.
+29,62,Coronary Artery Disease,Chronic fatigue and fluid retention noted.
+30,59,Arrhythmia,Severe dyspnea with activity limitation.
+31,70,Arrhythmia,Experiencing syncope and palpitations frequently.
+32,66,Coronary Artery Disease,Patient shows signs of ventricular dilation.
+33,68,Valvular Heart Disease,Valve calcification seen on echocardiogram.
+34,59,Heart Failure,Holter monitor detected abnormal rhythms.
+35,61,Valvular Heart Disease,Echocardiogram reveals reduced ejection fraction.
+36,38,Valvular Heart Disease,Valve regurgitation identified during imaging.
+37,52,Coronary Artery Disease,Patient reports chest pain and breathlessness.
+38,68,Valvular Heart Disease,Family history positive for heart disease.
+39,63,Coronary Artery Disease,Left ventricular function severely reduced.
+40,75,Heart Failure,Chronic fatigue and fluid retention noted.
+41,48,Heart Failure,MRI shows hypertrophic ventricular walls.
+42,62,Valvular Heart Disease,Murmur detected; valvular dysfunction confirmed.
+43,32,Cardiomyopathy,Heart sounds abnormal with systolic murmur.
+44,84,Heart Failure,Patient experiences chest discomfort on exertion.
+45,72,Cardiomyopathy,Stress test indicates myocardial ischemia.
+46,37,Cardiomyopathy,Experiencing syncope and palpitations frequently.
+47,43,Valvular Heart Disease,Echocardiogram reveals reduced ejection fraction.
+48,73,Cardiomyopathy,Patient experiences chest discomfort on exertion.
+49,66,Heart Failure,Left ventricular function severely reduced.
+50,32,Valvular Heart Disease,Left ventricular function severely reduced.
+51,80,Cardiomyopathy,Murmur detected; valvular dysfunction confirmed.
+52,50,Valvular Heart Disease,Chronic fatigue and fluid retention noted.
+53,57,Heart Failure,Holter monitor detected abnormal rhythms.
+54,61,Valvular Heart Disease,ECG shows irregular rhythm and tachycardia.
+55,80,Coronary Artery Disease,Coronary angiogram confirms arterial narrowing.
+56,81,Valvular Heart Disease,Left ventricular function severely reduced.
+57,85,Heart Failure,Heart sounds abnormal with systolic murmur.
+58,66,Coronary Artery Disease,Patient experiences chest discomfort on exertion.
+59,78,Coronary Artery Disease,Echocardiogram reveals reduced ejection fraction.
+60,66,Valvular Heart Disease,Patient reports chest pain and breathlessness.
+61,35,Heart Failure,BNP elevated; signs of heart failure.
+62,60,Valvular Heart Disease,Holter monitor detected abnormal rhythms.
+63,34,Valvular Heart Disease,Stress test indicates myocardial ischemia.
+64,40,Heart Failure,Mild cardiomegaly noted in chest X-ray.
+65,57,Heart Failure,Coronary angiogram confirms arterial narrowing.
+66,70,Cardiomyopathy,Severe dyspnea with activity limitation.
+67,40,Arrhythmia,Echocardiogram reveals reduced ejection fraction.
+68,44,Arrhythmia,Valve regurgitation identified during imaging.
+69,79,Arrhythmia,BNP elevated; signs of heart failure.
+70,77,Arrhythmia,Stress test indicates myocardial ischemia.
+71,78,Valvular Heart Disease,Family history positive for heart disease.
+72,76,Heart Failure,Coronary angiogram confirms arterial narrowing.
+73,46,Heart Failure,Murmur detected; valvular dysfunction confirmed.
+74,44,Arrhythmia,Patient experiences chest discomfort on exertion.
+75,42,Coronary Artery Disease,Echocardiogram reveals reduced ejection fraction.
+76,45,Arrhythmia,Echocardiogram reveals reduced ejection fraction.
+77,45,Valvular Heart Disease,Holter monitor detected abnormal rhythms.
+78,78,Heart Failure,Coronary angiogram confirms arterial narrowing.
+79,75,Valvular Heart Disease,Patient shows signs of ventricular dilation.
+80,41,Cardiomyopathy,Left ventricular function severely reduced.
+81,72,Coronary Artery Disease,Echocardiogram reveals reduced ejection fraction.
+82,40,Arrhythmia,Heart sounds abnormal with systolic murmur.
+83,63,Coronary Artery Disease,Patient reports chest pain and breathlessness.
+84,84,Valvular Heart Disease,Left ventricular function severely reduced.
+85,53,Arrhythmia,Patient experiences chest discomfort on exertion.
+86,82,Heart Failure,Experiencing syncope and palpitations frequently.
+87,76,Heart Failure,Mild cardiomegaly noted in chest X-ray.
+88,79,Arrhythmia,Echocardiogram reveals reduced ejection fraction.
+89,66,Arrhythmia,Severe dyspnea with activity limitation.
+90,45,Coronary Artery Disease,MRI shows hypertrophic ventricular walls.
+91,76,Coronary Artery Disease,Left ventricular function severely reduced.
+92,34,Coronary Artery Disease,Heart sounds abnormal with systolic murmur.
+93,58,Arrhythmia,BNP elevated; signs of heart failure.
+94,58,Heart Failure,Left ventricular function severely reduced.
+95,46,Coronary Artery Disease,Patient shows signs of ventricular dilation.
+96,44,Heart Failure,Severe dyspnea with activity limitation.
+97,85,Cardiomyopathy,Coronary angiogram confirms arterial narrowing.
+98,76,Arrhythmia,Left ventricular function severely reduced.
+99,54,Coronary Artery Disease,Holter monitor detected abnormal rhythms.
+100,75,Valvular Heart Disease,Experiencing syncope and palpitations frequently.
+101,58,Coronary Artery Disease,Patient reports chest pain and shortness of breath; ECG shows ST elevation indicating myocardial infarction.\
+102,72,Heart Failure,Chronic fatigue and dyspnea noted; echocardiogram shows reduced ejection fraction and ventricular dilation.\
+103,45,Arrhythmia,Complaints of palpitations; ECG confirms atrial fibrillation with irregular rhythm and rapid heart rate.\
+104,60,Cardiomyopathy,Exhibits signs of hypertrophic cardiomyopathy; genetic testing pending for family history assessment.\
+105,67,Valvular Heart Disease,Reports fatigue and murmur on auscultation; echo reveals mitral valve regurgitation with moderate severity.\
+106,53,Coronary Artery Disease,Diagnosed with unstable angina; coronary angiogram reveals partial blockage in left anterior descending artery.\
+107,39,Arrhythmia,Patient experiences frequent syncope episodes; Holter monitor shows episodes of ventricular tachycardia.\
+108,75,Heart Failure,Severe leg swelling and orthopnea observed; BNP levels elevated; requiring diuretic management and monitoring.\
+109,66,Valvular Heart Disease,Bicuspid aortic valve identified; patient presents with exertional chest pain and dizziness.\
+110,50,Cardiomyopathy,Dilated cardiomyopathy suspected; family history positive; reduced exercise tolerance and left ventricular dysfunction observed.\
